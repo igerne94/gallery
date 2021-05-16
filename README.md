@@ -1,1 +1,2 @@
-# gallery => gh-pages
+# gallery 
+main => gh-pages
