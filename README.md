@@ -1,1 +1,1 @@
-# gallery => master
+# gallery => gh-pages
